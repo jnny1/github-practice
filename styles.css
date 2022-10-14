@@ -1,3 +1,17 @@
+body{
+    background-color: pink;
+}
+navigation{
+    background-color: blueviolet;
+}
+ul a{
+    float: right;
+    text-decoration: none;
+    margin: 20px;
+
+
+}
 p{
     color: blue;
+    clear: both;
 }
