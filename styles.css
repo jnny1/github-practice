@@ -2,7 +2,7 @@ body{
     background-color: pink;
 }
 .navigation{
-    display: flex;
+    display: grid;
     background-color: red;
 }
 a{
