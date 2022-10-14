@@ -1,14 +1,14 @@
 body{
     background-color: pink;
 }
-navigation{
-    background-color: blueviolet;
+.navigation{
+    display: flex;
+    background-color: red;
 }
-ul a{
-    float: right;
+a{
     text-decoration: none;
-    margin: 20px;
-
+    margin:2px;
+    float:right;
 
 }
 p{
