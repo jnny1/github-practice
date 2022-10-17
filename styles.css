@@ -15,3 +15,12 @@ p{
     color: blue;
     clear: both;
 }
+.column{
+    float:left;
+    width:33%;
+    border: solid 1px blue;
+    text-align: center;
+}
+.row{
+    clear: both;
+}
